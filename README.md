@@ -19,7 +19,6 @@ Software Engineer with **3+ years of corporate experience** and **8+ years in so
 
 ### 🏆 Key Achievements
 
-- 🛡️ **Google Bounty Hunter (2022)** - Discovered critical authentication bypass vulnerability
 - 👥 **Team Leadership** - Successfully managed 3+ development teams across multiple high-impact projects
 - 📱 **Production Impact** - Delivered 15+ live applications with thousands of active users
 - 🏢 **Enterprise Clients** - Fortune 500 companies (Unilever), major brands (Marriott, Audi, Orange Egypt)
@@ -168,7 +167,6 @@ Software Engineer with **3+ years of corporate experience** and **8+ years in so
 ## 🎓 Education & Certifications
 
 - 🎓 **Bachelor of Information Technology** - Egyptian E-Learning University (2017-2021)
-- 🛡️ **Google Bounty Hunter** - Security Research Recognition (2022)
 - 📱 **Flutter Expert** - 3+ years production experience
 - 🏗️ **Clean Architecture** - Advanced implementation patterns
 
