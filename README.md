@@ -25,6 +25,20 @@ Software Engineer with **3+ years of corporate experience** and **8+ years in so
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+### 🗓️ Contribution Graph (2019 - Present)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnGamal1&theme=tokyo-night&hide_border=true&custom_title=John's%20GitHub%20Activity&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff)
+
+*Consistent coding activity since 2019, showcasing dedication to continuous learning and development*
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 📱 Mobile Development
